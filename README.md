@@ -7,7 +7,7 @@ A newcomer to a city would be puzzled to determine which bus to take so as to re
 
 
 Existing System
-   ----------------
+----------------
 In the conventional scenario, a user would have to either wait for a bus for indefinite period of time or  has to call the bus transportation enquiry personnel who only have to guess the bus's probable current location. 
 
 
@@ -17,7 +17,7 @@ As mentioned above the preciseness with which the authorities at the enquiry can
 If the person is a newcomer to the city, then the things would be too worse as he might not be aware of the bus routes available.
 
 
-PROPOSED SYSTEM
+Proposed System
 ----------------
 This application provides for tracking a user and deliver relevant data to the user. The application would receive source and destination locations from user and pass it to the database server. 
 It then passes the received coordinates of locations to a maps provider through their API calls.
@@ -27,9 +27,9 @@ Selection of S/W & H/W Structure
 ---------------------------------
 The software selected for completing this project are as follows:
 
--> Eclipse IDE with ADT plug-in installed for android application development.
--> Android Development kit with AVD Manager and SDK Manager and a minimum SDK of Android 2.2 with Google API’s.
--> Postgresql for creating and managing the database.
+- Eclipse IDE with ADT plug-in installed for android application development.
+- Android Development kit with AVD Manager and SDK Manager and a minimum SDK of Android 2.2 with Google API’s.
+- Postgresql for creating and managing the database.
 
 
 The hardware components used are as follows:
@@ -57,9 +57,11 @@ HARDWARE REQUIREMENTS
 SOFTWARE REQUIREMENTS
 
 Operating Environment:-
+
 	Operating System: GNU/Linux distributions, Windows XP (or higher) Operating System
 	Database Server: PostgreSQL 9.1
 
 DEVELOPMENT TOOLS:-
-       *    IDE: Eclipse IDE with JDK6 (or) openJDK-6 & ADT plug-in
-       *    Android SDK:  Android SDK  20.0.1 with Gogle APIs (minimum)
+
+	IDE: Eclipse IDE with JDK6 (or) openJDK-6 & ADT plug-in
+	Android SDK:  Android SDK  20.0.1 with Gogle APIs (minimum)
