@@ -1,0 +1,24 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Gpstrap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_page1">GpsTrap</string>
+    <string name="text1">Source</string>
+    <string name="text2">Destination</string>
+    <string name="prompt1">Select your current location</string>
+    <string name="prompt2">Select your destination location</string>
+
+    <string-array name="locs">
+        <item name="loc1">Market</item>
+        <item name="loc2">Bus-Stand</item>
+        <item name="loc3">PWD-Grounds</item>
+        <item name="loc4">GateWay</item>
+        <item name="loc5">Benz-Circle</item>
+        <item name="loc6">Patamata</item>
+    </string-array>
+
+    <string name="Button">Submit</string>
+    <string name="title_activity_maps">Maps</string>
+
+</resources>
